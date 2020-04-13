@@ -9,11 +9,9 @@
 ---
 ###  Includes the macros DQAnalysis, AllStocksAnalysis, Mod2Challenge and SkillSetsDrills
 ---
-####               DQ Analysis has a macro called "DQAnalysis" to analyze the DQ stock performance in 2018
+####               DQAnalysis is used to analyze the DQ stock performance in 2018
 ---
-####               "AllStocksAnalysis()" to analyzing all stocks in 2018 
----
-##### Note -  In the challenge 2.3.3, I added columns for the startingPrice and endingPrice (columns D and E). It seems to work.
+####               AllStocksAnalysis()" is used to analyze all stocks in 2018 
 ---
 ####               Mod2Challenge() is used to refactor the AllStocksAnalysis()
 ---
